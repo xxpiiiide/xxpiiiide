@@ -4,4 +4,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=xxpiiiide&count_private=true&show_icons=true&theme=tokyonight" alt="test" width="420"/>
 </p>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+  [![PIIIIDE's github stats](https://github-readme-stats.vercel.app/api?username=xxpiiiide)](https://github.com/anuraghazra/github-readme-stats)
